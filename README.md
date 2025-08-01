@@ -128,6 +128,15 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Desenvolvido com ❤️ para aprendizado e diversão.
 
----
+## Como foi criada
+
+<img width="1442" height="647" alt="Captura de tela 2025-07-31 204407" src="https://github.com/user-attachments/assets/ce66f748-7d6d-468f-a73c-642c309d8940" />
+
+<img width="1183" height="797" alt="Captura de tela 2025-07-31 204456" src="https://github.com/user-attachments/assets/cee610a7-062a-49d1-8973-4cbe5cf16332" />
+
+<img width="1178" height="458" alt="Captura de tela 2025-07-31 204502" src="https://github.com/user-attachments/assets/868f2f9d-195c-43fe-a418-b8f38191f4db" />
+<img width="1343" height="915" alt="Captura de tela 2025-07-31 204508" src="https://github.com/user-attachments/assets/24ea0b23-ba71-44ae-a2c6-7e950223b8a9" />
+
+<img width="1393" height="843" alt="Captura de tela 2025-07-31 204517" src="https://github.com/user-attachments/assets/31260453-e842-4c6b-b75b-c1db0bbcbb77" />
 
 ⭐ Se você gostou do projeto, não esqueça de dar uma estrela!
